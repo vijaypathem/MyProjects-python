@@ -1,0 +1,7 @@
+India/Delhi
+China/Beijing
+France/Paris
+Russia/Moscow
+America/New york
+England/London
+Pakistan/Islamabad
